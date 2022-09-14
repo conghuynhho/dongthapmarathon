@@ -500,6 +500,9 @@ textarea {
   font: inherit;
   /* 2 */ }
 
+.d-none {
+	display: none;
+}
 select {
   display: block; }
 

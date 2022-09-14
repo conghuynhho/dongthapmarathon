@@ -8,6 +8,10 @@
  * DO NOT CHANGE THIS FILE
  * to override any of the settings in this section, add your styling code in the custom directory.
  */
+.d-none {
+	display: none;
+}
+
 .page-content a,
 .comments-area a {
   text-decoration: underline; }
